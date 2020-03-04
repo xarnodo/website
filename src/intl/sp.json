@@ -1,0 +1,1314 @@
+
+{
+
+
+
+
+ "header": {
+
+
+   "menu": {
+
+
+     "one": "Explorador",
+
+
+     "two": "Cartera",
+
+
+     "three": "¿Qué es Fantom?",
+
+
+     "four": "Desarrolladores",
+
+
+     "five": "Artículos",
+
+
+     "six": "Fundación",
+
+
+     "seven": "White Paper",
+
+
+     "copyright": "©2020 Fantom Foundation",
+
+
+     "privacy": "Política de Privacidad"
+
+
+   }
+
+
+ },
+
+
+ "home": {
+
+
+   "hero": {
+
+
+     "title": "El núcleo del nuevo internet"
+
+
+   },
+
+
+   "subtitle": {
+
+
+     "title": "El consenso para redes distribuídas más avanzado, rápido y seguro. ",
+
+
+     "description": "Estés emitiendo una moneda estable, creando una nueva economía inteligente, o alimentando una ciudad inteligente, el enfoque modular de Fantom te permite concentrarte en construir la aplicación descentralizada perfecta, o mainnet - como la llamamos nosotros."
+
+
+   },
+
+
+   "offers": {
+
+
+     "title": "Construido con el futuro en mente",
+
+
+     "description": "Fantom ofrece la base más potente para registros distribuidos (Distributed Ledger)"
+
+
+   },
+
+
+   "intro": {
+
+
+     "title": "Introducción a Fantom",
+
+
+     "description": "El Ecosistema, El Consenso, La Innovación."
+
+
+   },
+
+
+   "updates": {
+
+
+     "developer": {
+
+
+       "title": "Portal para Desarrolladores",
+
+
+       "description": "Código abierto. Escalable. Seguro."
+
+
+     },
+
+
+     "foundation": {
+
+
+       "title": "La Fundación Fantom",
+
+
+       "description": "Las personas, la cultura."
+
+
+     }
+
+
+   },
+
+
+   "carousel": {
+
+
+     "latestArticles": "Últimos artículos"
+
+
+   },
+
+
+   "offerdata": [
+
+
+     {
+
+
+       "id": "1",
+
+
+       "classname": "Scalable offer-item",
+
+
+       "heading": "Escalable",
+
+
+       "des": "Nuestros mecanismos de consenso - Lachesis y TxFlow - pueden escalarse donde otros no pueden.",
+
+
+       "img": "/images/offer-icon/scalable.svg",
+
+
+       "alt": "Escalable"
+
+
+     },
+
+
+     {
+
+
+       "id": "2",
+
+
+       "classname": "Secure offer-item",
+
+
+       "heading": "Seguro",
+
+
+       "des": "Los mecanismos de consenso con Tolerancia Asíncrona a Faltas Bizantinas ofrecen seguridad de nivel bancario para cualquier aplicación de registro distribuido (distributed ledger)",
+
+
+       "img": "/images/offer-icon/secure.svg",
+
+
+       "alt": "Seguro"
+
+
+     },
+
+
+     {
+
+
+       "id": "3",
+
+
+       "classname": "Fast offer-item",
+
+
+       "heading": "Rápido",
+
+
+       "des": "El consenso de Fantom está diseñado para tolerar un alto rendimiento, manteniendo seguridad, capacidad de respuesta, y rapidez. ",
+
+
+       "img": "/images/offer-icon/fast.svg",
+
+
+       "alt": "Rápido"
+
+
+     },
+
+
+     {
+
+
+       "id": "4",
+
+
+       "classname": "Connected offer-item",
+
+
+       "heading": "Conectado",
+
+
+       "des": "Los productos y ledgers que utilizan el SDK Fantom pueden interactuar entre sí a través de puentes libres de custodia y tokens enlazados.",
+
+
+       "img": "/images/offer-icon/Connected.svg",
+
+
+       "alt": "Conectado"
+
+
+     },
+
+
+     {
+
+
+       "id": "5",
+
+
+       "classname": "Permissionless offer-item",
+
+
+       "heading": "Sin permiso (Permissionless)",
+
+
+       "des": "Hemos diseñado el SDK Fantom para ser utilizado en redes securizadas mediante Prueba de Participación (Proof of Stake), con gobernancia on-chain para una participación máxima en la red.",
+
+
+       "img": "/images/offer-icon/Permissionless.svg",
+
+
+       "alt": "Sin permiso (Permissionless)"
+
+
+     },
+
+
+     {
+
+
+       "id": "6",
+
+
+       "classname": "Open-source offer-item",
+
+
+       "heading": "Código abierto",
+
+
+       "des": "Todo el código, investigación, y los repositorios creados por el equipo de desarrollo de Fantom están disponibles públicamente para revisión por sus pares y mejoras.",
+
+
+       "img": "/images/offer-icon/openSource.svg",
+
+
+       "alt": "Código abierto"
+
+
+     }
+
+
+   ],
+
+
+   "subscribeform": {
+
+
+     "title": "Recibe las últimas actualizaciones"
+
+
+   }
+
+
+ },
+
+
+ "readMore": "Leer Más",
+
+
+ "learnMore": "Saber Más",
+
+
+ "notfound": {
+
+
+   "header": "No se encuentra",
+
+
+   "description": "Has llegado a una ruta que no existe… la tristeza."
+
+
+ },
+
+
+ "walletPage": {
+
+
+   "toggleButtonMobile": "Móvil",
+
+
+   "toggleButtonDesktop": "Escritorio",
+
+
+   "hero": {
+
+
+     "title": "Cartera Fantom",
+
+
+     "desktopContent": "Tus FTM, siempre contigo.",
+
+
+     "mobileContent": "Guarda, envía, recibe y haz stake con tus FTM.",
+
+
+     "firstButtonTitle": "Abrir la Cartera Web",
+
+
+     "secondButtonTitle": "Descargar Cartera"
+
+
+   },
+
+
+   "desktopData": [
+
+
+     {
+
+
+       "id": "d1",
+
+
+       "imgUrl": "/images/wallet/desktop1.png",
+
+
+       "title": "Seguro",
+
+
+       "content": "Accede a tu cartera con un keystore cifrado."
+
+
+     },
+
+
+     {
+
+
+       "id": "d2",
+
+
+       "imgUrl": "/images/wallet/desktop2.png",
+
+
+       "title": "Fácil de usar",
+
+
+       "content": "Enviar tokens debería ser fácil. Y así lo hemos hecho."
+
+
+     },
+
+
+     {
+
+
+       "id": "d3",
+
+
+       "imgUrl": "/images/wallet/desktop3.png",
+
+
+       "title": "Rentable",
+
+
+       "content": "Deja que tus FTM trabajen por ti. Haz stake para securizar la red y consigue recompensas a cambio."
+
+
+     }
+
+
+   ],
+
+
+   "mobileData": [
+
+
+     {
+
+
+       "id": "m1",
+
+
+       "imgUrl": "/images/wallet/phone1.png",
+
+
+       "title": "Seguro y \nanónimo",
+
+
+       "content": "Tu clave privada está guardada en tu móvil y nunca se compartirá"
+
+
+     },
+
+
+     {
+
+
+       "id": "m2",
+
+
+       "imgUrl": "/images/wallet/phone2.png",
+
+
+       "title": "Envía y recibe FTM",
+
+
+       "content": "Sí, es tan fácil como parece."
+
+
+     },
+
+
+     {
+
+
+       "id": "m3",
+
+
+       "imgUrl": "/images/wallet/phone3.png",
+
+
+       "title": "Haz stake en cualquier parte",
+
+
+       "content": "Haz stake con tus FTM desde tu móvil, comprueba y cobra tus recompensas."
+
+
+     }
+
+
+   ],
+
+
+   "createWallet": {
+
+
+     "desktopContent": "Descarga la app de Fantom Wallet",
+
+
+     "mobileContent": "Crea tu cartera",
+
+
+     "downloadButton": "Descarga la versión de escritorio:",
+
+
+     "macText": "Mac OS",
+
+
+     "windowsText": "Windows",
+
+
+     "openWalletText": "O abre la versión Web >",
+
+
+     "lastSectionTextDesktop": "¿Estás buscando las versiones web o escritorio?",
+
+
+     "lastSectionTextMobile": "¿Estás buscando la versión móvil?",
+
+
+     "lastSectionLinkDesktop": "Haz click aquí para las versiones web y de escritorio",
+
+
+     "lastSectionLinkMobile": "Haz click aquí para la versión móvil"
+
+
+   }
+
+
+ },
+
+
+ "whatisFantomPage": {
+
+
+   "hero": {
+
+
+     "title": "¿Qué es Fantom?"
+
+
+   },
+
+
+   "aboutData": [
+
+
+     {
+
+
+       "id": "1",
+
+
+       "heading": "Introducción",
+
+
+       "spanOne": "Fantom es una serie de componentes tecnológicos,",
+
+
+       "content": "que, cuando se combinan, forman una base tecnológica que permite construir un ecosistema de aplicaciones mayor. \n \n Nuestro objetivo es desarrollar nuestros mecanismos de consenso TxFlow y Lachesis con tolerancia asíncrona a Faltas Bizantinas 'aBFT'. 'aBFT' consigue que las transacciones se confirmen tan pronto como entran a la red, en lugar de tener que esperar a la confirmación de transacciones previas. Esto incrementa notablemente la rapidez de la red. \n \n En lugar de centralizar todo el poder computacional y el uso de la red en un único registro distribuido (distributed ledger), los usuarios del ecosistema Fantom pueden desplegar sus propios registros distribuidos independientes entorno al consenso, manteniendo la posibilidad de intercomunicación. "
+
+
+     },
+
+
+     {
+
+
+       "id": 2,
+
+
+       "heading": "¿por qué necesitamos otro registro distribuido (distributed ledger?",
+
+
+       "content": "Si la mayoría de las empresas del mundo usaran una única base de datos centralizada, las transacciones se atascarían rápidamente. \n \n Con la popularización del Bitcoin y las plataformas descentralizadas para contratos inteligentes, hemos visto cómo la industria ha buscado el cambio de redes centralizadas por registros descentralizados, para conseguir seguridad y mayor eficiencia sin tener que asumir riesgos. \n \n En contra de lo esperado, se ha visto que las redes descentralizadas son inherentemente menos rápidas y escalables que sus oponentes centralizados debido a las latencias que introduce el tener múltiples nodos comunicándose entre sí. \n \n En Fantom creemos en el futuro de las redes descentralizadas y “sin permiso” (permissionless), y en el potencial que los registros distribuidos tienen para causar una disrupción en los antiguos sistemas utilizados por la industria financiera, las cadenas de suministro y la economía compartida. \n \n Pero no creemos que un único registro sea necesariamente la solución. \n \n La visión de Fantom es facilitar a los usuarios el despliegue y personalización de sus propios registros distribuidos dentro de una red interoperable, en la que puedan hacer transacciones y comunicarse libremente con otros registros descentralizados. \n \n Nuestro objetivo no es construir el mejor registro descentralizado, sino construir el mejor consenso posible. \n \n Un registro distribuido se considera una plataforma, mientras que el consenso es un módulo. Los usuarios podrán desplegar sus propios registros distribuidos propulsados por Lachesis aBFT y/o TxFlow, en combinación con diferentes tipos de middleware, desde el SDK Fantom a la Máquina Virtual Ethereum (EVM). \n \n "
+
+
+     },
+
+
+     {
+
+
+       "id": 3,
+
+
+       "heading": "¿Qué son Lachesis aBFT y TxFlow?",
+
+
+       "spanOne": "Lachesis aBFT",
+
+
+       "content": "is a Fantom’s core asynchronous and leaderless byzantine fault tolerant consensus protocol.  \n \n It is based on principles about gossip protocols where small bits of information are propagated throughout the network rapidly. Distributed ledgers deployed on top of this technology deliver the highest grade of network security, high transaction throughputs, and low time to finality. \n \n In order to make it as easy as possible to build distributed ledgers tailored to the needs of the user, we designed Lachesis aBFT to be highly adaptable and compatible with existing codebases such as Cosmos SDK and Go-Ethereum. \n \n \n \n",
+
+
+       "spanTwo": "TxFlow",
+
+
+       "contentTwo": "es un protocolo para respuesta transaccional. No es un nuevo mecanismo de consenso, sino un protocolo que se ejecuta concurrentemente con el consenso de forma que los usuarios envían transacciones y reciben confirmaciones en tiempo real. \n \n Los consensos habituales, como un BFT creando bloques y votándolos, son necesarios como mecanismo de seguridad secundario, o incluso primario. Incluso si la transacción no hubiera recibido votos suficientes antes de que el bloque en el que iría incluida sea propuesto, se incluiría. \n \n "
+
+
+     },
+
+
+     {
+
+
+       "id": 4,
+
+
+       "heading": "¿Qué es la finalización?",
+
+
+       "contentBefore": "Antes de explicar lo que es la finalización y por qué es importante, retrocedamos al ",
+
+
+       "spanAfter": "problema del doble-gasto. ",
+
+
+       "content": "El doble-gasto es el problema de que la misma moneda digital se pueda gastar más de una vez. \n \n Este es un error único de los activos y divisas digitales, ya que los números en un ordenador son fácilmente reproducibles. Este problema es comparable al del mercado de las tarjetas regalo, en el que el valor monetario se guarda en un simple código, que puede reproducirse y entregarse a múltiples personas, pero sólo puede ser canjeado una vez. \n \n En términos sencillos, la finalización es saber que cuando compras un café, ese mismo dinero no puede utilizarse para comprar un té. \n \n Transfieres valor al cajero, se resta de tu cartera y se añade a la suya. Es importante porque al vendedor le gustaría asegurarse de que ha recibido el dinero, antes de ofrecer el servicio o transferir la propiedad de alguno de sus bienes. \n \n Bitcoin y Ethereum utilizan un mecanismo de consenso llamado Prueba de Trabajo (PoW por sus siglas en inglés); en estas redes existe un grupo descentralizado de individuos conocidos como mineros, que verifican que las transacciones no son doble gasto. Las transacciones se agrupan en bloques, que se añaden síncronamente a una secuencia de tipo cadena. En estas redes hay una propiedad denominada la cadena de trabajo más larga: la cadena a la que más nodos o mineros dan soporte se mantiene y el resto se bifurcan fuera del consenso. \n \n Añadir bloques a una cadena es inmensamente complicado y costoso en términos computacionales. En estas configuraciones nunca podemos estar 100% seguros de que el bloque en el que una transacción se haya agrupado, vaya a pertenecer a la cadena más larga. Lo que podemos decir, es que la probabilidad de existencia de una cadena más larga es menor cuantos más bloques se añaden. \n \n Esto nos conduce a la finalización probabilística, siendo infinitesimalmente baja la probabilidad de que se haga doble gasto después de que X número de bloques se hayan generado. \n \n En algoritmos de consenso recientes como Tendermint pBFT, Lachesis aBFT, y Casper, encontramos ",
+
+
+       "spanAfterTwo": "finalización objetiva e inequívoca.",
+
+
+       "contentTwo": "Esto nos da la confianza de saber que todas las transacciones que han ocurrido hasta el momento son completamente válidas sin la menor posibilidad de incurrir en doble gasto, siempre y cuando más de ⅔ de los nodos del consenso sean honestos. \n \ Estas cadenas no usan la regla de la cadena más larga para decidir qué bloques se añaden al consenso. En su lugar, estos protocolos normalmente funcionan de la siguiente forma: \n \n ",
+
+
+       "list": [
+
+
+         {
+
+
+           "lid": 1.1,
+
+
+           "li": "Uno de los nodos participantes propone un bloque"
+
+
+         },
+
+
+         {
+
+
+           "lid": 1.2,
+
+
+           "li": "Todos los nodos validadores reconocen el bloque una vez que más del ⅔ haya enviado su pre-compromiso."
+
+
+         },
+
+
+         {
+
+
+           "lid": 1.3,
+
+
+           "li": "Un bloque es final y se incluye en el consenso una vez un nodo haya recibido el compromiso de ⅔ por él."
+
+
+         },
+
+
+         {
+
+
+           "lid": 1.4,
+
+
+           "li": "La finalización se garantiza a menos que ⅓ o más de los nodos validadores sean maliciosos."
+
+
+         }
+
+
+       ]
+
+
+     },
+
+
+     {
+
+
+       "id": 5,
+
+
+       "heading": "¿Entonces cuál es el TL;DR para Fantom?",
+
+
+       "content": "En resumen, Fantom es un conjunto de herramientas de código-abierto para construir todo tipo de productos para registros distribuidos. \n \n Nuestro objetivo es construir el mejor consenso que pueda ser utilizado como un módulo para aquellos que quieran crear un registro distribuido para cubrir sus necesidades. \n \n La Fundación anima a desarrolladores y empresas a formar una comunidad que construya sobre este consenso y añada sus propios módulos para crear un producto, una comunidad, y un ecosistema de empresas y desarrolladores, que desarrollen sobre este consenso y añadan sus propios módulos para crear productos para registros distribuidos. \n \n"
+
+
+     }
+
+
+   ]
+
+
+ },
+
+
+ "developerPage": {
+
+
+   "hero": {
+
+
+     "title": "Fantom es de código abierto"
+
+
+   },
+
+
+   "learnHeadingData": {
+
+
+     "heading": "Aprende.",
+
+
+     "description": "Echa un vistazo a nuestros documentos técnicos y otros recursos.",
+
+
+     "img": "/images/home/learn.svg"
+
+
+   },
+
+
+   "buildData": {
+
+
+     "heading": "DESARROLLA.",
+
+
+     "description": "Únete a nuestra comunidad de desarrolladores en Github y mantente al día de nuestro progreso.",
+
+
+     "href": "https://github.com/Fantom-foundation",
+
+
+     "img": "/images/home/600px-Octicons-mark-github.png",
+
+
+     "getstarted": "Empieza"
+
+
+   },
+
+
+   "learnMoreData": [
+
+
+     {
+
+
+       "id": 1,
+
+
+       "heading": "On Probabilistic Byzantine Fault Tolerance",
+
+
+       "link": "https://arxiv.org/abs/2002.03087",
+
+
+       "imgSrc": "/images/home/Arrow-Forward.svg"
+
+
+     },
+
+
+     {
+
+
+       "id": 2,
+
+
+       "heading": "Fast Stochastic Peer Selection in Proof-of-Stake Protocols",
+
+
+       "link": "https://arxiv.org/abs/1911.04629",
+
+
+       "imgSrc": "/images/home/Arrow-Forward.svg"
+
+
+     },
+
+
+     {
+
+
+       "id": 3,
+
+
+       "heading": "Defi Modules",
+
+
+       "link": "/Documents/documents.pdf",
+
+
+       "imgSrc": "/images/home/Arrow-Forward.svg"
+
+
+     },
+
+
+     {
+
+
+       "id": 4,
+
+
+       "heading": "Economics of Smart Contracts",
+
+
+       "link": "https://arxiv.org/pdf/1910.11143.pdf",
+
+
+       "imgSrc": "/images/home/Arrow-Forward.svg"
+
+
+     },
+
+
+     {
+
+
+       "id": 5,
+
+
+       "heading": "StairDAG",
+
+
+       "link": "https://arxiv.org/abs/1908.11810",
+
+
+       "imgSrc": "/images/home/Arrow-Forward.svg"
+
+
+     },
+
+
+     {
+
+
+       "id": 6,
+
+
+       "heading": "StakeDag",
+
+
+       "link": "https://arxiv.org/abs/1907.03655",
+
+
+       "imgSrc": "/images/home/Arrow-Forward.svg"
+
+
+     },
+
+
+     {
+
+
+       "id": 7,
+
+
+       "heading": "ONLAY: Online Layering",
+
+
+       "link": "https://arxiv.org/abs/1905.04867",
+
+
+       "imgSrc": "/images/home/Arrow-Forward.svg"
+
+
+     },
+
+
+     {
+
+
+       "id": 8,
+
+
+       "heading": "Fantom: A scalable framework for asynchronous distributed systems",
+
+
+       "link": "https://arxiv.org/abs/1810.10360",
+
+
+       "imgSrc": "/images/home/Arrow-Forward.svg"
+
+
+     },
+
+
+     {
+
+
+       "id": 9,
+
+
+       "heading": "Opera",
+
+
+       "link": "/Documents/Fantom_Paper_vRelease.pdf",
+
+
+       "imgSrc": "/images/home/Arrow-Forward.svg"
+
+
+     }
+
+
+   ]
+
+
+ },
+
+
+ "foundationPage": {
+
+
+   "hero": {
+
+
+     "title": "La Fundación Fantom"
+
+
+   },
+
+
+   "teamData": {
+
+
+     "heading": "Conoce al equipo",
+
+
+     "description": "Los miembros de nuestro equipo tienen colectivamente años de experiencia en investigación y desarrollo de redes, sistemas distribuidos, middleware, y dirigiendo compañías tecnológicas."
+
+
+   }
+
+
+ },
+
+
+ "privacyPage": {
+
+
+   "section1": {
+
+
+     "title": "Política de Privacidad Web",
+
+
+     "paragraph1": "Esta política de privacidad aplica a las webs de la Fundación Fantom",
+
+
+     "paragraph2": "Proteger tu privacidad es importante para nosotros. Somos los responsables de tu información personal y esta política explica cómo la manejamos dentro de nuestra organización."
+
+
+   },
+
+
+   "section2": {
+
+
+     "title": "Tipos de información personal que recogemos",
+
+
+     "paragraph1": "Los tipos de datos personales recogidos y mantenidos pueden incluir:",
+
+
+     "ul": {
+
+
+       "li1": "información de contacto, tal y como tu dirección de correo electrónico",
+
+
+       "li2": "nombres de usuario en redes sociales (incluido Telegram) y otra información de perfil que hagas disponible para nosotros o para el público",
+
+
+       "li3": "registros de comunicaciones contigo, incluyendo mensajes y correos que nos envíes",
+
+
+       "li4": "información de dispositivo, de registro de servidor, dirección IP, y ubicación",
+
+
+       "li5": "otra información que nos facilites en el transcurso de nuestras comunicaciones",
+
+
+       "li6": "otra información que pueda identificarte"
+
+
+     },
+
+
+     "paragraph2": "sin esta información no podríamos proporcionarte nuestros productos o servicios (o no con todas las funciones y funcionalidad ofrecida por ellos) ni responder a las preguntas o peticiones que nos envíes."
+
+
+   },
+
+
+   "section3": {
+
+
+     "title": "Cómo registramos información personal",
+
+
+     "paragraph1": "Registramos tu informaciones personal de las siguientes maneras:",
+
+
+     "ul": {
+
+
+       "li1": "cuando nos contactas por correo electrónico o redes sociales (como Telegram)",
+
+
+       "li2": "cuando nos haces una pregunta o petición",
+
+
+       "li3": "cuando respondes a una encuesta que hagamos, participes en alguna campaña promocional o rellenes alguno de los formularios de nuestras webs",
+
+
+       "li4": "rastreando tu uso de nuestros productos y servicios (incluida nuestra web)",
+
+
+       "li5": "a través de proveedores de analítica (como Google que procesa información personal sujeta a su propia política de privacidad:",
+
+
+       "a": {
+
+
+         "href": "https://policies.google.com/privacy/partners",
+
+
+         "text": "https://policies.google.com/privacy/partners)"
+
+
+       },
+
+
+       "li6": "de fuentes públicas (incluyendo redes sociales que tengan sus propias políticas de privacidad que controlen el acceso y uso a la información personal contenida en esas fuentes)",
+
+
+       "li7": "de terceros que estén autorizados a proporcionarnos esa información personal",
+
+
+       "li8": "cuando solicites trabajar con nosotros"
+
+
+     },
+
+
+     "paragraph2": "En algunos casos es posible que la ley nos requiera registrar cierta información personal sobre ti."
+
+
+   },
+
+
+   "section4": {
+
+
+     "title": "Propósitos para los que utilizamos la información personal",
+
+
+     "paragraph1": "En los casos en los que registremos información personal, lo haremos generalmente nosotros mismos. Sin embargo, en algunos casos podríamos registrarla a través de un tercero, como pueden ser tus representantes, contratistas que nos den servicio, o terceros que te hayan remitido a nosotros porque crean que puedes estar interesado en nuestros productos o servicios.",
+
+
+     "paragraph2": "Utilizamos tu información personal para los siguientes propósitos:",
+
+
+     "ul": {
+
+
+       "li1": "para permitirnos ofrecerte nuestros productos y servicios (incluyendo servicios en la blockchain Ethereum)",
+
+
+       "li2": "para responder tus preguntas y peticiones",
+
+
+       "li3": "para cumplir con nuestras obligaciones legales y normativas, o según sea requerido o autorizado por ley",
+
+
+       "li4": "para llevar a cabo análisis de mercado e investigación utilizando el análisis de datos para mejorar nuestros productos y servicios",
+
+
+       "li5": "para monitorizar el uso de productos y servicios incluyendo el uso de los tokens",
+
+
+       "li6": "para gestionar y resolver cualquier disputa legal o comercial",
+
+
+       "li7": "para llevar a cabo nuestras actividades de planificación y estimación y otros procesos internos de negocio",
+
+
+       "li8": "para mantenerte informado de actividades, incluyendo el envío de comunicaciones sobre nuestros tokens, y el desarrollo de la futura plataforma FANTOM"
+
+
+     },
+
+
+     "paragraph3": "Ocasionalmente podríamos usar tu información personal para enviarte material de venta de productos o servicios en los que creemos que puedes estar interesado (incluyendo en algunos casos productos y servicios proporcionados por terceros). Puedes optar por no recibir esta información contactándonos usando una de las formas de contacto indicadas más abajo, o siguiendo el enlace “unsubscribe” en la comunicación.",
+
+
+     "paragraph4": "podríamos igualmente revelar tu información para otros propósitos conforme con tu autorización, o de acuerdo a tus instrucciones."
+
+
+   },
+
+
+   "section5": {
+
+
+     "title": "Personas a las que revelamos información personal",
+
+
+     "paragraph1": "Podemos compartir tu información personal con::",
+
+
+     "ul": {
+
+
+       "li1": "tus representantes, asesores y otros a los que hayas podido autorizar a tratar con nosotros en tu nombre",
+
+
+       "li2": "nuestro personal que necesite la información para completar sus tareas",
+
+
+       "li3": "nuestros afiliados y entidades relacionadas dentro de nuestro grupo empresarial incluyendo aquellos situados fuera del país en el que resides",
+
+
+       "li4": "nuestros socios, agentes y proveedores de servicios (incluyendo los proveedores de almacenamiento y nube)",
+
+
+       "li5": "potenciales compradores de nuestra compañía (o parte) o de acciones de nuestra compañía o compañías relacionadas",
+
+
+       "li6": "asesores profesionales que involucremos para asesorar en nuestro negocio",
+
+
+       "li7": "autoridades gubernamentales que nos pidan revelar la información, o a otras personas a las que la ley requiera hacerlo"
+
+
+     },
+
+
+     "paragraph2": "Nuestros tokens son conformes a ERC-20 y BEP-2. Es posible identificar información personal desde (e incluyendo) direcciones de cartera y otros datos disponibles en las cadenas Ethereum y Binance ya que son, por naturaleza, registros públicos y transparentes. Dada la naturaleza de las cadenas Ethereum y Binance, no podemos cambiar o controlar la revelación de dicha información."
+
+
+   },
+
+
+   "section6": {
+
+
+     "title": "Revelación a destinatarios internacionales",
+
+
+     "paragraph1": "En algunos casos revelamos información personal a destinatarios que pueden estar situados fuera del país en el que te encuentres (incluyendo contratistas y otros proveedores de servicios). Podemos revelar tu información personal a nuestros afiliados y entidades relacionadas, así como empleados en el extranjero según sea necesario para proveerte nuestros bienes y servicios.",
+
+
+     "paragraph2": "Tenemos entidades relacionadas, afiliados y proveedores de servicios localizados en distintos países de la región Asia-Pacífico y ocasionalmente en otros países, pudiendo revelar información personal a estas entidades.",
+
+
+     "paragraph3": "Tomamos medidas comercialmente razonables para asegurarnos de que los destinatarios en el extranjero tengan medidas de seguridad adecuadas, aseguren un nivel adecuado de protección de tus datos personales, y no infrinjan las leyes de privacidad aplicables en tu territorio o esta Política de Privacidad en relación a la información personal."
+
+
+   },
+
+
+   "section7": {
+
+
+     "title": "Cookies",
+
+
+     "paragraph1": "Las cookies son pequeños archivos de texto creados y almacenados por tu explorador en tu disco duro, para almacenar información relevante sobre la página web que estás visitando.",
+
+
+     "paragraph2": "Las cookies se utilizan para monitorizar y observar tu uso de nuestras webs, recopilar datos agregados acerca de ese uso, y ofrecerte un servicio más efectivo (lo que puede incluir la personalización de partes de nuestras webs basada en tus preferencias y actividad anterior en esas webs)",
+
+
+     "paragraph3": "Algunos terceros (como por ejemplo proveedores de servicios de análisis de datos) también pueden usar cookies sobre las que no tenemos control",
+
+
+     "paragraph4": "La mayoría de exploradores tienen una opción que te permite deshabilitar alguna o todas las cookies - por favor consulta el menú de ayuda de tu navegador para encontrar cómo hacerlo. Podrás navegar por nuestras webs con las cookies deshabilitadas en tu explorador, pero algunas funcionalidades pueden no estar disponibles o no funcionar correctamente."
+
+
+   },
+
+
+   "section8": {
+
+
+     "paragraph1": "Tomamos medidas razonables para asegurar que la información personal que tenemos sea precisa, completa y actualizada. Estas medidas incluyen actualizar inmediatamente la información que se nos informe que haya cambiado, comprobar nuestras listas de contacto para confirmar su exactitud, y facilitar los medios necesarios a los individuos para la actualización de sus datos personales.",
+
+
+     "paragraph2": "Guardamos la información personal tanto tiempo como sea necesario para el propósito por el que se ha recogido o tanto como exija la ley. Tras un tiempo razonable pasado este periodo, tomaremos las acciones razonables para des-identificar o destruir la información personal que esté en nuestra posesión o control.",
+
+
+     "paragraph3": "Generalmente guardamos la información que recogemos en bases de datos electrónicas, algunas de las cuales pueden estar en posesión de terceros a nuestro nombre. Ocasionalmente también guardamos copia de estos datos en unidades físicas de almacenamiento. Utilizamos una serie de procesos y procedimientos técnicos de seguridad para proteger la confidencialidad y la seguridad de la información que recogemos, y actualizamos estos con cierta frecuencia para afrontar nuevos o emergentes riesgos de seguridad. Estas medidas incluyen:",
+
+
+     "ul": {
+
+
+       "li1": "restricción de acceso a nuestras bases de datos físicas y electrónicas, además de seguridad física como procedimientos para controlar el acceso a nuestras instalaciones; y",
+
+
+       "li2": "procedimientos de seguridad tecnológicos como protección por password, firewalls, encriptación, detección de intrusos y monitorización donde sea posible."
+
+
+     }
+
+
+   },
+
+
+   "section9": {
+
+
+     "title": "Tus derechos respecto a tu información personal",
+
+
+     "paragraph1": "Tienes derecho a:",
+
+
+     "ul": {
+
+
+       "li1": "acceder y solicitar una copia de tu información personal, para comprobar el uso que se está haciendo",
+
+
+       "li2": "corregir o rectificar la información personal que esté obsoleta, incorrecta o sea confusa",
+
+
+       "li3": "retirar cualquier consentimiento previamente otorgado para el procesamiento de tu información personal",
+
+
+       "li4": "oponerte al procesado de tu información personal",
+
+
+       "li5": "pedirnos restringir o suspender el uso de tu información personal"
+
+
+     },
+
+
+     "paragraph2": "Estas peticiones se nos deben enviar por escrito usando una de las formas de contacto indicadas más abajo.",
+
+
+     "paragraph3": "Daremos respuesta a tu petición en un tiempo razonable y entregaremos una copia de tu información personal gratuitamente. Si tu petición requiere copias adicionales o es infundada, excesiva o repetitiva, podremos rechazarla o hacer un cargo razonable. Si rechazáramos una petición o hiciéramos un cargo, alegaríamos las razones para el rechazo o el cargo en un tiempo razonable.",
+
+
+     "paragraph4": "Tienes derecho a pedir copia de la información personal que nos has facilitado en un formato estructurado, legible y común, así como el derecho a transmitir esa información a otra entidad bajo determinadas circunstancias.",
+
+
+     "paragraph5": "Puede existir algún caso en el que no nos sea posible entregar la información que nos pides, por ejemplo si interfiriera con la privacidad, derechos o libertades de otros, o resultara en una violación de la confidencialidad o leyes aplicables. En estos casos, te haríamos saber por qué no podemos completar tu petición."
+
+
+   },
+
+
+   "section10": {
+
+
+     "title": "Cómo borrar tu información personal",
+
+
+     "paragraph1": "Tienes derecho a pedir el borrado o destrucción de tu información personal (“derecho al olvido”) cuando ya no sea necesaria para el propósito para el que fue recogida, no se utilice para el propósito para el que fue recogida, o desees retirar tu consentimiento para su procesado. También tienes derecho a pedirnos el borrado o retirada de tus datos personales en los casos en los que hayas ejercido tu derecho a rechazar el procesado, en los que hayamos procesado tu información de forma ilícita, o cuando se nos requiera el borrado de tu información personal para cumplir con la legislación local.",
+
+
+     "paragraph2": "Puede haber casos en los que no nos sea posible cumplir con tu petición, como en los que necesitemos continuar procesando tu información personal para cumplir con la legislación vigente. Estas peticiones deben remitirse por escrito usando una de las formas de contacto indicadas más abajo."
+
+
+   },
+
+
+   "section11": {
+
+
+     "title": "Reclamaciones",
+
+
+     "paragraph1": "Intentamos satisfacer los estándares más altos para proteger tu privacidad. Sin embargo, si te preocupa la forma en que estamos tratando tu información personal, o crees que podemos haber infringido nuestras obligaciones bajo las leyes de privacidad o de protección de datos, o cualquier otra obligación relevante, puedes contactarnos usando una de las formas de contacto indicadas más abajo.
+",
+
+
+     "paragraph2": "Las reclamaciones deben presentarse por escrito. En la reclamación, por favor incluye tus datos de contacto (dirección de correo electrónico, nombre, dirección y número de teléfono) y describe claramente la reclamación. Trataremos el asunto dentro de un tiempo razonable y te mantendremos informado del progreso de nuestra investigación.",
+
+
+     "paragraph3": "Si no te hemos respondido dentro de un tiempo razonable o si sientes que tu reclamación no ha sido resuelta satisfactoriamente, puedes contactarnos para discutir tus preocupaciones. También tienes derecho a hacer una reclamación al organismo regulador correspondiente."
+
+
+   },
+
+
+   "section12": {
+
+
+     "title": "Cambios a esta política",
+
+
+     "paragraph1": "Podemos cambiar esta política en cierto momento, para incluir cambios en nuestras prácticas habituales y procedimiento o cuando sea necesario cumplir con nuevas leyes y reglamentos. La última versión de esta política siempre estará disponible en nuestra web."
+
+
+   },
+
+
+   "section13": {
+
+
+     "title": "Datos de contacto",
+
+
+     "paragraph1": "Si necesitas contactar con nosotros o quieres más información acerca de privacidad, por favor escríbenos a ",
+
+
+     "a": {
+
+
+       "href": "mailto:contact@fantom.foundation",
+
+
+       "text": "contact@fantom.foundation"
+
+
+     }
+
+
+   }
+
+
+ }
+
+
+}
+
